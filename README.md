@@ -33,7 +33,8 @@ enkripsi
 
 
 
-![gambar](https://user-images.githubusercontent.com/122614381/212322587-d531bc90-45f7-4968-9c46-f6ad0557307c.png)
+![gambar](https://user-images.githubusercontent.com/122614381/212322936-209670d0-0219-42a9-a2f1-b14dfe18490b.png)
+
 
 
 
@@ -50,4 +51,5 @@ deskripsi
 
 
 
-![gambar](https://user-images.githubusercontent.com/122614381/212322667-a0907096-4fc6-41b2-91c3-f16eaa9f9ef4.png)
+![gambar](https://user-images.githubusercontent.com/122614381/212323043-209d2628-2e71-4966-a33d-25dece26f30b.png)
+
